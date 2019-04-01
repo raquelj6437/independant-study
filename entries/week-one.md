@@ -5,7 +5,7 @@ My name is Raquel Joseph. I am embarking in a 9-week independant study. This is 
 I have spent the first week exploring two languages: Swift and C#. I originally wanted to create my own version of the sims which is why I was looking into C#, but the I realized that it would be more innovative to create a mobile app. I decided that swift would be a good option for me. Even though creating an app on swift would not be the most marketable because majority of the human population uses android, 52.1 percent, I considered that it would allow me to focus sowly on apple products. Also, another reason I decided to study Swift was because I only own Apple products.
 
 #### What is Swift?
-Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond. Swift code is safe by design, yet also produces software that runs lightning-fast. Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. It is built with the open source LLVM compiler framework and has been included in Xcode since version 6, released in 2014. 
+[Swift](https://swift.org) is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond. Swift code is safe by design, yet also produces software that runs lightning-fast. Swift is the result of the latest research on programming languages, combined with decades of experience building Apple platforms. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. It is built with the open source LLVM compiler framework and has been included in Xcode since version 6, released in 2014. 
 
 #### The Beginning always starts with "Hello World"
 In order to install swift I had 
@@ -38,8 +38,10 @@ Swift is a very foreign language to me because the set up is not like HTML, Pyth
 
 #### Takeaways
 1. The first step into learning a new language or in other words “dip your toes in” is by starting with the basic “Hello World” code.
-2. 
-3.
+2. __Following installation steps are very important!__ At first I struggled to get my code to work and then I realized that it was because there were installation instructions that I completly disregarded.
+3. Understand a new coding language may be difficult and discouraging but what you create/achieve in the end will be worth it.
 
 #### Resources
 https://www.appcoda.com/learnswift/build-your-first-app.html
+https://nshipster.com/vscode/
+https://swift.org
