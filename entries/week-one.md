@@ -16,7 +16,7 @@ In order to install swift I had
 
 To begin my study on swift, I thought to myself what would be the most basic form of swift. Then I figured that learning how Hello World would be a good way to start. Below is a snippit of the hello world that I tested.
 
-``` 
+```
 *import UIKit
 
 class ViewController: UIViewController {
