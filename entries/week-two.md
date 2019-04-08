@@ -32,6 +32,8 @@ Community service app functionality:
 * tracks community hours
 
 ## Takeaways
-1. 
+1. Testing code is a very effective way of learning. It allows you to remember the syntax of the language.
+2. Taking efficient notes that you can look back on is __extremely helpful__ because you can look back if you forgot something.
+
 ## References
 https://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit-cms-25461
