@@ -1,4 +1,5 @@
 # Independent Study Week Two: Choosing An App
+Arieta and I decdied to partner up because we are both learning swift.
 
 This week I had two objectives: finishing the [intro lessons of swift](https://www.youtube.com/watch?v=2OZ07fklur8&index=1&list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) on youtube and thinking of an app idea.
 
@@ -14,7 +15,7 @@ I did not understand what `import UIKit` meant so I decided to google it. UIKit 
 Refer to my [notes](../notes/swift_intro.md) to know specifically what each lesson was about.
 
 ### Code that suprised me! (in a good way)
-
+Data Types! I was not expecting a data type called double. Float, in most languages usually accounts for all decimals.
 
 ## App Ideas
 As seen in the readme our four ideas were
@@ -23,5 +24,14 @@ As seen in the readme our four ideas were
 * Moodvie
 * Party Planning app
 
+Arieta and I made a pros and cons list in order to determine which app we should make. We based the decision heavily on which app we thought would be the most marketable. We decided to create a __community service app!__
+
+Community service app functionality:
+* allows for people to choose multiple community service options
+* allows imployers to look for people who are willing to do community service
+* tracks community hours
+
+## Takeaways
+1. 
 ## References
 https://code.tutsplus.com/tutorials/ios-from-scratch-with-swift-first-steps-with-uikit-cms-25461

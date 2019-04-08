@@ -18,4 +18,9 @@ var str = "Hello, playground"
 let str = "Hello"
 ```
 # Lesson Two: Data Types
-
+In swift, there are 5 data types
+* String: Piece of text
+* Int: Whole numbers, positive and negative integers
+* Float: Decimal Numbers
+* Double: Large decimal numbers
+* Bool: True or False
