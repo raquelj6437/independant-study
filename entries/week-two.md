@@ -13,7 +13,8 @@ I did not understand what `import UIKit` meant so I decided to google it. UIKit 
 
 Refer to my [notes](../notes/swift_intro.md) to know specifically what each lesson was about.
 
-### code that suprised me! (in a good way)
+### Code that suprised me! (in a good way)
+
 
 ## App Ideas
 As seen in the readme our four ideas were
