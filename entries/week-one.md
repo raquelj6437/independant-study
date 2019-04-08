@@ -1,4 +1,4 @@
-# Independent Study Week One Intro/Plan
+# Independent Study Week One: Intro/Plan
 My name is Raquel Joseph. I am embarking in a 9-week independant study. This is week one's entry.
 
 #### Choosing a Topic
