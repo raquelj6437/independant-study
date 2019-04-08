@@ -38,3 +38,35 @@ var b:Float = 2.3
 var c:Double = 13.910456355335566
 var d:Bool = true
 ```
+## Lesson Three: Conditionals
+### if statements
+```swift
+var a = 3
+if a < 3{
+    print('a is less than 3')
+}
+```
+### else if statements
+```swift
+var a = 3
+if a < 3{
+    print('a is less than 3')
+}
+else if a > 3{
+    print('a is greater than 3')
+}
+```
+### else statements
+```swift
+var a = 3
+if a < 3{
+    print('a is less than 3')
+}
+else if a > 3{
+    print('a is greater than 3')
+}
+else{
+    print('nothing was true')
+}
+```
+## Lesson Four: Switch Statements
