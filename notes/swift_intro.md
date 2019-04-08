@@ -70,3 +70,17 @@ else{
 }
 ```
 ## Lesson Four: Switch Statements
+### Switch Statements
+
+```swift
+var someCharacter:Character = 'a'
+
+switch someCharacter{
+    case 'a':
+        print('Character is a')
+    case 'b':
+        print('Character is b')
+    case 'c':
+        print('Character is c')
+}
+```
