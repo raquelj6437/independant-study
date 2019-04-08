@@ -18,4 +18,4 @@ Week Two
     * Party Planning app
 
 ## Tips
-1. [Week One Tips](tips/tips-1.md)
+1. [Week One Tips](notes/tips-1.md)
