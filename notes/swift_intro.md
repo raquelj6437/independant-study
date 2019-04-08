@@ -1,4 +1,8 @@
 # Week Two
+## Built-in Functions
+* `Int(x)` turns x into an integer.
+* `Round(x)` rounds x
+
 ## Lesson Zero: Swift Setup
 ![Swift Setup](../images/swift_setup.png)
 
@@ -25,3 +29,12 @@ In swift, there are 5 data types
 * Float: Decimal Numbers
 * Double: Large decimal numbers
 * Bool: True or False
+
+Setting Data Types:
+```swift
+var str:String = "Hello, playground" 
+var a:Int = 1
+var b:Float = 2.3
+var c:Double = 13.910456355335566
+var d:Bool = true
+```
