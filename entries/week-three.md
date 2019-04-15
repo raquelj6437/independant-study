@@ -3,7 +3,7 @@ I spent week three thinking and tinkering with swift. I was trying to understand
 ## The Skateboard
 What is a skateboard you ask? Its the MVP of the project, the minimum viable product. Thinking of the skateboard is probably the most important part of creating your product. It guides you and helps you to understand what you are building.
 
-![mvp](../images/mvp.gif)
+![mvp](../images/newmvp.gif)
 
 I started thinking about what the app needed.
 
