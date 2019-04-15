@@ -30,5 +30,10 @@ Here is the plan that I made for the app.
 ![app planning google drawing](../images/ccapp-planning.png)
 
 ## Possible Enhancements
+Before I thought of my skateboard, I thought of the car which I figured was not going to be feasible to build in the next six weeks. I decided that I should write down the enhancements I was thinking about so that if I have time I can come back and add it to the app.
+
+1. a page for schools to track students so students would not forget to send their hours
+2. a feature where students can connect with people who are doing the same opportunities so that they can make friends/connections.
+
 ## Takeaways
 ## Sources
