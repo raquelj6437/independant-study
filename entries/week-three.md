@@ -44,3 +44,7 @@ What is a SMART goal?
     * R = relevant
     * T = time based
 2. Understanding yourself and your abilities is important. Being able to know what you are capable of will help you to determine what would be the best way to go about building your project.
+
+## Sources
+https://gist.github.com/shaunlebron/746476e6e7a4d698b373
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
