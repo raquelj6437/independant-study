@@ -3,6 +3,8 @@ I spent week three thinking and tinkering with swift. I was trying to understand
 ## The Skateboard
 What is a skateboard you ask? Its the MVP of the project, the minimum viable product. Thinking of the skateboard is probably the most important part of creating your product. It guides you and helps you to understand what you are building.
 
+![mvp](../images/mvp.gif)
+
 I started thinking about what the app needed.
 
 Two different people would have access to the app: students and employers. Since this is a community service app, people would need to know where available opportunities are. I was thinking about using an api for this but the problem with that is how would their hours be verfied if the employer has to verify it.
