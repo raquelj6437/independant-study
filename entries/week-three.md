@@ -36,4 +36,11 @@ Before I thought of my skateboard, I thought of the car which I figured was not 
 2. a feature where students can connect with people who are doing the same opportunities so that they can make friends/connections.
 
 ## Takeaways
-## Sources
+1. Make sure your plans are feasible. SMART goals are important when creating something because it allows you to have an MVP for yourself and not overwork.<br/><br/>
+What is a SMART goal?
+    * S = specific
+    * M = measurable
+    * A = attainable
+    * R = relevant
+    * T = time based
+2. Understanding yourself and your abilities is important. Being able to know what you are capable of will help you to determine what would be the best way to go about building your project.
