@@ -49,6 +49,7 @@ What is a SMART goal?
     * T = time based
 
 ![smart gif](../images/smart.gif)
+
 2. Understanding yourself and your abilities is important. Being able to know what you are capable of will help you to determine what would be the best way to go about building your project.
 
 ## Sources
