@@ -3,6 +3,7 @@ My name is Raquel Joseph. I am embarking in a 9-week independant study. This is 
 
 1. [Week One](entries/week-one.md)
 2. [Week Two](entries/week-two.md)
+3. [Week Three](entries/week-three.md)
 
 ## Goals
 _Completed_ Week One
@@ -17,5 +18,9 @@ _Completed_ Week Two
     * Moodvie
     * Party Planning app
 
+_Completed_ Week Three
+* Thnk of an MVP
+* Make a google drawing of MVP
+
 ## Tips
-1. [Week One Tips](notes/tips-1.md)
+1. [Tips](notes/tips-1.md)

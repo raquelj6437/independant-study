@@ -84,3 +84,5 @@ switch someCharacter{
         print('Character is c')
 }
 ```
+
+## Lesson Five: Loops

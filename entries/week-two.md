@@ -17,6 +17,8 @@ Refer to my [notes](../notes/swift_intro.md) to know specifically what each less
 ### Code that suprised me! (in a good way)
 Data Types! I was not expecting a data type called double. Float, in most languages usually accounts for all decimals.
 
+You know whats crazy, you cant use single quotes!
+
 ## App Ideas
 As seen in the readme our four ideas were
 * Community Service App
