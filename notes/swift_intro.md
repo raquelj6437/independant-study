@@ -86,3 +86,13 @@ switch someCharacter{
 ```
 
 ## Lesson Five: Loops
+## Lesson Six: Functions
+```swift
+func addTwoNumbers(arg para:Int, arg2 para2:Int) -> Int{
+    let a = para
+    let b = para2
+    return a + b
+}
+
+print(addTwoNumbers(arg: 1, arg2: 2))
+```

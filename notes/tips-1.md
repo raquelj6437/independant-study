@@ -10,3 +10,6 @@
 
 #### Xavier
 1. No time is wasted when tinkering.
+
+#### Wei
+1. Plans always fall behind changes. There are so many things that are completely unexpected to you, and they are just conflicting with your plan. However, all you need to do is to accept the change and readjust your plan. Stay patient, stay positive, and stay active.
