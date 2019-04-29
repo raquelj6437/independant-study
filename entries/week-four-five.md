@@ -10,15 +10,15 @@ During week five, I decided to learn how to connect the backend with the fronten
 
 I googled calculator swift tutorial and [How To Make A Calculator App In Xcode 8 (Swift 3.0)](https://youtu.be/AG2QDwmj64A) was the first video that popped up so I decided to follow it.
 
-Step one: Add the buttons
+#### Step one: Add the buttons
 ![step one](../images/stepone.png)
-Step two: Open the controller
+#### Step two: Open the controller
 ![step twp](../images/steptwo.png)
-Step three: Drag buttons into controller
+#### Step three: Drag buttons into controller
 ![step three](../images/stepthree.png)
-Step four: Add code
+#### Step four: Add code
 ![step four](../images/stepfour.png)
-Step five: Run code
+#### Step five: Run code
 ![step five](../images/stepfive.png)
 ![step five 2](../images/stepfive2.png)
 ![step five 3](../images/stepfive3.png)
