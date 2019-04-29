@@ -96,3 +96,18 @@ func addTwoNumbers(arg para:Int, arg2 para2:Int) -> Int{
 
 print(addTwoNumbers(arg: 1, arg2: 2))
 ```
+
+## Lesson Seven: Classes
+```swift
+class Person{
+    var name = ""
+    var age = 0
+    var sex = ""
+}
+
+let john = Person()
+
+john.name = "John Joseph"
+john.age = 18
+john.sex = "Male"
+```
