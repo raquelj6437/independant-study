@@ -22,6 +22,7 @@ I googled calculator swift tutorial and [How To Make A Calculator App In Xcode 8
 ![step five](../images/stepfive.png)
 ![step five 2](../images/stepfive2.png)
 ![step five 3](../images/stepfive3.png)
+
 For some reason, when I pressed the = sign, my code wasn’t working. I didn’t understand why because all the code that I typed was the same as the tutorial. I started commenting stuff out to see where the bug was. 
 
 After hours of commenting out and exploring swift to see what i could do. I realized that the button wasn’t connected to the code so it wouldn’t do anything. I then had to fix the connection with the rest of my buttons because after I connected the = sign, the rest of the buttons broke.
