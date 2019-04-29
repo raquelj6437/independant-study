@@ -4,6 +4,7 @@ My name is Raquel Joseph. I am embarking in a 9-week independant study. This is 
 1. [Week One](entries/week-one.md)
 2. [Week Two](entries/week-two.md)
 3. [Week Three](entries/week-three.md)
+4. [Week Four/Five](entries/week-four-five.md)
 
 ## Goals
 _Completed_ Week One
