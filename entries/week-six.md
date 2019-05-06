@@ -7,7 +7,7 @@ Arieta and I decided that it would be more effective if we divided the project a
 ### The Wireframe
 ![wireframe gif](../images/app-wireframe.gif)
 
-As you can see, I used the skills from week three to include multiple view in the app. I did not know how to connect the views when clicking a button so I had to google it. I learned that if you hold contro; and drag the button to the view you'd like to acces, it connects. I also learned how to make the collection view show up when you click theater. Originally, it was showing a blank page when launching clubraising even though everything was placed correctly in the view. I googled the problem and learned that you needed to call it from the code itself.
+As you can see, I used the skills from week three to include multiple view in the app. I did not know how to connect the views when clicking a button so I had to google it. I learned that if you hold control and drag the button to the view you'd like to acces, it connects. I also learned how to make the collection view show up when you click theater. Originally, it was showing a blank page when launching clubraising even though everything was placed correctly in the view. I googled the problem and learned that you needed to call it from the code itself.
 
 ```swift
 class MyCollectionViewCell: UICollectionViewCell {
