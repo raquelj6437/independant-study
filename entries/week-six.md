@@ -5,7 +5,7 @@ We decided to name our app Clubraising. A play on fundrasing because it's an app
 Arieta and I decided that it would be more effective if we divided the project and come back together week 8 to put everything togther. I took on the challenge of creating a well working student side of the project while she took on creating the faculty side of the project.
 
 ### The Wireframe
-![wireframe gif](app-wireframe.gif)
+![wireframe gif](../images/app-wireframe.gif)
 
 As you can see, I used the skills from week three to include multiple view in the app. I did not know how to connect the views when clicking a button so I had to google it. I learned that if you hold contro; and drag the button to the view you'd like to acces, it connects. I also learned how to make the collection view show up when you click theater. Originally, it was showing a blank page when launching clubraising even though everything was placed correctly in the view. I googled the problem and learned that you needed to call it from the code itself.
 
