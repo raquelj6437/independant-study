@@ -31,5 +31,5 @@ After hours of commenting out and exploring swift to see what i could do. I real
 We spent hours trying to think of a new idea. We had to come up with in it a day so it was constant texting back and forth between us and then finally we had an idea. An app where clubs can create their own stores to help with fundraising. People would be able to oder off the app and a club would deliver their purchase to them.
 
 ### Takeaways
-Its okay to change an idea. Realizing that your first idea was too much too handle is better than trying to stress yourself over completing it by a deadline.
-Just breathe. Remember to take care of yourself. Mental health is just as important as working. If your mental health is not up to par then your work will not be as good as you want it to be.
+* Its okay to change an idea. Realizing that your first idea was too much too handle is better than trying to stress yourself over completing it by a deadline.
+* Just breathe. Remember to take care of yourself. Mental health is just as important as working. If your mental health is not up to par then your work will not be as good as you want it to be.
