@@ -18,6 +18,8 @@ I did learn a bit though. I was able to connect the buttons to the swift script 
 
 This is how you change the text of a label text when using a button.
 
-Takeaways
+Next week, I am still going to try and finish [the sqlite tutorial](https://www.youtube.com/watch?v=c4wLS9py1rU). 
+
+#### Takeaways
 1. Prioritize your mental health. In my previous post I said this too but it is important that people understand that they’re body and mind are the most important. If you’re not feeling too good about yourself. Then you need to take a me day and take the time to understand yourself.
 2. It is okay be not meet a goal. Just change your schedule so that you are able to meet your goal the next week.
