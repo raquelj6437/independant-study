@@ -9,6 +9,8 @@ Even though we both did different parts, we were able to learn effectively what 
 
 ### The App
 
+![pong gif ](../images/pong.gif)
+
 ### What I learned
 I learned how to move a sprite and add a score every time the player or computer won. I also was able to make the ball reset so that the game starts over so it is a fair game. 
 
