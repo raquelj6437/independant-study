@@ -8,6 +8,7 @@ My name is Raquel Joseph. I am embarking in a 9-week independant study. This is 
 5. [Week Six](entries/week-six.md)
 6. [Week Seven](entries/week-seven.md)
 7. [Week Eight](entries/week-eight.md)
+8. [Week Nine](entries/week-nine.md)
 
 ## Tips
 1. [Tips](notes/tips-1.md)
